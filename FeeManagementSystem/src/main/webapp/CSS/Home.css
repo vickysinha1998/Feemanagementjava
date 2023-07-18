@@ -1,0 +1,195 @@
+.container
+{
+	display:flex;
+	height:auto;
+	width:auto;
+}
+
+.container1
+{
+	width:30rem;
+	background-color:maroon;
+	padding-top:20px;
+	padding-bottom:100px;
+	
+}
+#box
+{
+	display:flex;
+	box-shadow:0 .5rem 1rem rgba(1,1,1,2);
+	height:60px;
+	width:250px;
+	border:solid 0px #ffffff;
+	margin-left:100px;
+	margin-top:50px;
+	
+	
+	
+}
+
+#add1
+{
+	height:50px;
+	padding-left:20px;
+}
+#home
+{
+	text-decoration:none;
+	color:#ffffff;
+	font-size:20px;
+	margin-left:20px;
+	margin-top:15px;
+}
+
+
+.container2
+{
+	height:1000px;
+	padding-top:20px;
+	width:75rem;
+	background-color:#A52A2A;
+	
+	
+}
+
+.container3
+{
+	display:flex;
+	width:70rem;
+	
+}
+
+.container4
+{
+	
+	width:35rem;
+	
+	
+}
+#f
+{
+	color:#ffffff;
+}
+#font
+{
+	color:#ffffff;
+	width:135px;
+	display:inline-block;
+	font-size:20px;
+	padding-left:100px;
+}
+
+#font1
+{
+	color:#ffffff;
+	width:210px;
+	display:inline-block;
+	font-size:20px;
+	padding-left:100px;
+}
+#font2
+{
+	color:#ffffff;
+	padding-left:100px;
+	font-size:20px;
+	width:135px;
+	display:inline-block;
+	
+}
+
+#font3
+{
+	color:#ffffff;
+	padding-left:110px;
+	font-size:20px;
+	padding-top:100px;
+	display:inline-block;
+	
+}
+#font4
+{
+	color:#ffffff;
+	padding-left:600px;
+	font-size:20px;
+	padding-top:100px;
+	display:inline-block;
+	
+}
+
+#div
+{
+	padding:10px;
+
+}
+
+
+.box
+{
+	font-size:20px;
+	
+}
+
+#input
+{
+	width:107.5px;
+}
+
+#input1
+{
+	height:80px;
+}
+
+
+
+
+.container5
+{
+	width:30rem;
+}
+
+.container6
+{
+	
+	width:70rem;
+	
+}
+
+.btn
+{
+	box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
+	width:100px;
+	height:50px;
+	font-size:20px;
+	background-color:#5F9EA0;
+	border:none;
+	color:#ffffff;
+	cursor:pointer;
+}
+
+#btn
+{
+	margin-left:110px;
+	margin-top:30px;
+	width:100px;
+	height:30px;
+}
+.heading
+{
+	color:#ffffff;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    width:70rem;
+	
+}
+
+#links
+{
+	box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
+	color:#ffffff;
+	background-color:#5F9EA0;
+	padding:14px 15px 14px 15px;
+	font-size:20px;
+	text-decoration:none;
+}
+
